@@ -1,2 +1,2 @@
 # skeet_v3
-v3 skeet source
+Pandora v3 source
